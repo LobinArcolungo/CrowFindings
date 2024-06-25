@@ -3,6 +3,7 @@ This file contains al the sources that I found involving corvids gathering objec
 
 ## Useful videos 
 <br>[How to start neural networks on ESP32](https://www.youtube.com/watch?v=w_sCTPDuutQ)
+<br>[ESP-CAM capture and upload video to server | Arduino](https://www.youtube.com/watch?v=9xM5Ej7lARI)
 
 
 ## Similar works list
